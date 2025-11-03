@@ -34,7 +34,6 @@ python -c "import torch; print(torch.__version__)"
 Nếu có lỗi thiếu package, cài thêm theo thông báo lỗi hoặc liên hệ để được hỗ trợ.
 
 ## 2) Chạy `realtime.py` để test mô hình realtime
-Mô hình đang thí nghiệm trên 5 ký hiệu: A, B, C, D và "Xin chào"
 
 Chuẩn bị trước khi chạy:
 - Đảm bảo file model `sign_sstcn_attention_model.pth` nằm trong thư mục dự án.
