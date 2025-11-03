@@ -1,0 +1,31 @@
+# Ignore dataset/videos directory (large media files)
+video_01/
+video_02/
+data_01/
+data_02/
+data_03/
+
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model checkpoints (optional - keep if you want to version models)
+# *.pth
+
+# VS Code settings
+.vscode/
+
+# files
+rename_file.py
+summary.ipynb
+test_model.py
+vsl-sstcn-attention.ipynb
+visualize_skeleton.py
